@@ -2,7 +2,9 @@
   "name": "Johnny Walsh",
   "symbol": "JoWa",
   "description": "The Johnny Walsh Token",
+  "seller_fee_basis_points": 0,
   "image": "https://raw.githubusercontent.com/nmchugh17/cryptojw/refs/heads/main/metadata/JWLogo.png",
+  "uri": "https://raw.githubusercontent.com/nmchugh17/cryptojw/refs/heads/main/metadata/metadata.json",
   "attributes": [],
   "properties": {
     "files": [
@@ -10,6 +12,7 @@
         "uri": "https://raw.githubusercontent.com/nmchugh17/cryptojw/refs/heads/main/metadata/JWLogo.png",
         "type": "image/png"
       }
-    ]
+    ],
+    "category": "image"
   }
 }
